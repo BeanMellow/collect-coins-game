@@ -1,5 +1,6 @@
 # Collect Coins
-## Simple game in vanilla JavaScript
+## Simple game in vanilla JavaScript. Preview:
+https://beanmellow.github.io/collect-coins-game/
 ### How to install:
 1. `git clone https://github.com/BeanMellow/collect-coins-game`
 2. `cd collect-coins-game`
